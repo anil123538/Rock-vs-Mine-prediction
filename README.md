@@ -6,7 +6,6 @@ This repository contains a project that predicts whether a sonar signal correspo
 Project Overview
 
 The project consists of two main components:
-
 1. Machine Learning Backend:
 
 Prepares input features for the model.
